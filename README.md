@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mustafa Khan Marwat</h1>
-<h3 align="centre">I'm passionate about Artificial Intelligence, Reinforcement Learning and Robotics. I have previously worked in the fields of Rehabilitation & Soft Robotics, Embedded AI, Signal Processing and Pattern Recognition.</h3>
+<p align="center">
+  <img src="https://github.com/MustafaMarwat/mustafamarwat/edit/main/GITHUB Banner.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+<h3 align="center">I'm passionate about Artificial Intelligence, Reinforcement Learning and Robotics. I have previously worked in the fields of Rehabilitation & Soft Robotics, Embedded AI, Signal Processing and Pattern Recognition.</h3>
 
 <!-- HTML Code -->
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mustafamarwat&label=Profile%20views&color=0e75b6&style=flat" alt="mustafamarwat" /> </p>
 
 - 🔭 I’m currently working on **REHABOTICS**
 
@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafamarwat&show_icons=true&locale=en" alt="mustafamarwat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafamarwat&" alt="mustafamarwat" /></p>
+
