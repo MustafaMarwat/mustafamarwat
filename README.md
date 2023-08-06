@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MustafaMarwat/mustafamarwat/main/GITHUB Banner.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/MustafaMarwat/mustafamarwat/main/GITHUB Banner.svg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 <h3 align="center">I'm passionate about Artificial Intelligence, Reinforcement Learning and Robotics. I have previously worked in the fields of Rehabilitation & Soft Robotics, Embedded AI, Signal Processing and Pattern Recognition.</h3>
 
